@@ -1,0 +1,128 @@
+.youtube-button {
+    background-color: rgb(155, 0, 0);
+    color: white;
+    height: 55px;
+    width: 140px;
+    border-radius: 10px;
+    border: solid; 
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.30s,
+    color 0.30s,
+    box-shadow 0.30s;
+    display: inline-block;
+     
+}
+.youtube-button:hover {
+background-color: white;
+color: rgb(155, 0, 0);
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+        
+}
+
+.youtube-button:active {
+background-color: rgb(155, 0, 0) ;
+
+}
+
+.contact {
+background-color: rgb(38, 139, 197);
+color: white;
+height: 55px;
+width: 140px;
+border-radius: 10px;
+border: solid;
+font-weight: bold;
+font-family: Arial;
+font-size: 15px;
+cursor: pointer;
+transition: background-color 0.30s,
+color 0.30s,
+box-shadow 0.30s;
+vertical-align: top;
+
+}
+
+.contact:hover {
+background-color: white;
+color: rgb(38, 139, 197);
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.text { 
+    font-size: 55px;
+    font-family: Josefin Sans;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin-top: 25px;
+    }
+
+    .YouTube-link {
+        display: inline-block;
+    }
+
+    .Contact-link {
+        display: inline-block;
+        vertical-align: top;
+        margin-left: 5px;
+    
+    }
+
+    .body {
+        background-color: rgb(93, 235, 216);
+        background-image: url(../Pictures/webb.png);
+        
+        
+        
+    }
+
+    .info {
+        text-align: center;
+        font-family: Ubuntu;
+        font-size: 21px;
+        display: block;
+        line-height: 30px;
+    }
+
+    .text-1  {
+        font-family: Raleway;
+        font-weight: bold;
+        font-size: 55px;
+        text-align: center;
+
+    }
+
+    .text-2 {
+        font-family: Ubuntu;
+        font-size: 31px;
+        
+    }
+
+    .text-3 {
+        font-family: Ubuntu;
+        font-size: 31px;
+    }
+
+    stan {
+        font-weight: bold;
+    }
+    
+    .contact-1 {
+        background-color: aquamarine;
+        background-image: url(../Pictures/webb2.png);
+    }
+    
+    .img-1 {
+        width: 600px;
+        border-radius: 11px;
+        border: solid;
+        margin-left: 355px;
+        
+        
+    }
+
+    
+   
